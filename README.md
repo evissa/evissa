@@ -4,7 +4,7 @@
 
 ▫️💻 I'm a Junior Frontend Developer and an extremely detail oriented person who loves coding & learning new things.  
 ▫️⌨️ Currently mastering my knowledges with different projects in my own.  
-▫️💡 For the moment I'm learning React. 
+
 
 ▫️🥳 My hoobies are Working out, Yoga, Meditation and watching Tv series 😍
 
