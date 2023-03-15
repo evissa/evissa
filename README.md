@@ -1,4 +1,4 @@
-### Hi there, I'm Evisa Cankaj based in Tirana, Albania 😁
+### Hi there, I'm Evissa based in Tirana, Albania 😁
 
 <br/>
 
