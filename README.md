@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/evissa/" target="_blank"> <img align="left" alt="Evisa Cankaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank > </a>
+<a href="https://www.linkedin.com/in/evissa/" target="_blank"> <img align="left" alt="Evisa Cankaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank /> </a>
 
 
 <br/>
