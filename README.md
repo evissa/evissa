@@ -7,7 +7,6 @@
 <li>💻 Currently working remotely & mastering my knowledges with different projects in my own.  </li>
 <li>💎 Experienced in Web Development, Digital Marketing & SEO.</li>
 <li>:octocat: Always open for collaborations.</li>
-<li>🧘‍♀️, </li>
 </ul>
 <br/>
 
