@@ -1,5 +1,5 @@
 ### Namaste 🙏
-### I'm Evissa a developer based in Tirana, Albania 😁
+### I'm Evissa, a developer based in Tirana, Albania 😁
 
 <br/>
 <ul>
